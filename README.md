@@ -1,5 +1,5 @@
-# Hi coders greatings 
-![waving_hand](https://user-images.githubusercontent.com/99097161/198103835-590a599e-2093-4b63-8db8-389b291a566f.gif)
+# Hi coders greatings ![waving_hand](https://user-images.githubusercontent.com/99097161/198104145-7f370f6d-aa5c-44ca-80db-24a3c4036edf.gif)
+
 
 
 I am passionate about web development :computer:
