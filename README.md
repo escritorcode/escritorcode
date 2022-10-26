@@ -1,7 +1,8 @@
-## Hi coders greatings 👋 ![image](https://user-images.githubusercontent.com/99097161/198101336-86227da8-2c73-4941-8cac-f035157b4877.png)
+## Hi coders greatings 👋 
 
 
 I am passionate about web development :computer:
+![waving_hand](https://user-images.githubusercontent.com/99097161/198102813-68053bb9-8ad7-4347-a2d5-44210f20c6b7.gif)
 
 ## My site web is
 
